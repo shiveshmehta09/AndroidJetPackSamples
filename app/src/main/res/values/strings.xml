@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidJetPackSamples</string>
+    <string name="title_activity_compose_sample">ComposeSample</string>
 </resources>
